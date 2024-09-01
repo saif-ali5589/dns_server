@@ -1,0 +1,4 @@
+PORT = 8080
+DNS_PORT = 5353
+DIRECTORY = "html-files"
+HOST = "0.0.0.0"
